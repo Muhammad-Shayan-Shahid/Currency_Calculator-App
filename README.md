@@ -14,11 +14,6 @@ This app allows users to convert currencies with a clean UI, flags for country s
 
 ---
 
-## 📸 Preview
-![App Screenshot](Logo.png)  
-
----
-
 ## 🛠️ Tech Stack
 - **HTML5** – structure  
 - **CSS3** – styling & responsive design  
@@ -26,4 +21,9 @@ This app allows users to convert currencies with a clean UI, flags for country s
 
 ---
 
-## 📂 Project Structure
+## 👨‍💻 Web App Developer
+**Muhammad Shayan Shahid**  
+📍 Front-End Developer   
+📧 msshahid23052006@gmail.com  
+
+Feel free to collaborate......
